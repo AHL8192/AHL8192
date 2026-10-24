@@ -1,4 +1,4 @@
-# AGENT.md — AHL8192 profile README
+# AGENTS.md — AHL8192 profile README
 
 This repo is the GitHub **profile README** for `AHL8192` (the repo must stay named
 `AHL8192/AHL8192`, public, with `README.md` at the root). Everything here is
